@@ -1,0 +1,5 @@
+﻿  pch.cpp
+  UnitTest1.cpp
+E:\політех\ооп\7\lab_7.3\lab_7.3\lab_7.3.cpp(14,9): warning C4244: инициализация: преобразование "__int64" в "int", возможна потеря данных
+     Создается библиотека E:\Політех\ооп\7\lab_7.3\x64\Debug\UnitTest1.lib и объект E:\Політех\ооп\7\lab_7.3\x64\Debug\UnitTest1.exp
+  UnitTest1.vcxproj -> E:\Політех\ооп\7\lab_7.3\x64\Debug\UnitTest1.dll
